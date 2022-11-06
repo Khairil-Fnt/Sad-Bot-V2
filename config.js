@@ -124,8 +124,8 @@ global.owner = [
 	['601124024797', 'BebanBot あ', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['60109102984',601124024797'] // Want some help?
-global.prems = ['60109102984','601124024797'] // Premium user has unlimited limit
+global.mods = ['60109102984'] // Want some help?
+global.prems = ['60109102984'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
 	// name: 'https://website'
 	nrtm: 'https://nurutomo.herokuapp.com/',
